@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLIDVehicles
 {
-    class JetSki : IVehicle
+    class Sea : IVehicle
     {
         public int Wheels { get; set; }
         public int Doors { get; set; }
